@@ -12,28 +12,38 @@ It incorporates advanced features to improve user experience, including paginati
 Inventory data ensures businesses track stock accurately, prevent shortages or overstocking, and make informed decisions. Without it, companies face high costs, inefficiencies, and unhappy customers.
 
 ⭐ ⭐ Key Benefits:
+
 💫 Prevents Stock Issues – Avoids running out of popular items or overstocking slow-moving products.
+
 💫 Improves Cash Flow – Prevents tying up money in excess inventory.
+
 💫 Enhances Order Accuracy – Reduces fulfillment errors.
+
 💫 Optimizes Supply Chain – Adjusts stock levels based on demand trends.
 
 
 ⭐ ⭐ Essential Inventory KPIs (with Analogies)
+
 ✴️ Inventory Turnover Ratio – How often inventory is sold and replaced.
 Analogy: A bakery selling fresh bread daily (high turnover) vs. stale bread sitting for weeks (low turnover).
 Formula: COGS / Average Inventory
+
 ✴️ Stock-to-Sales Ratio – Compares stock levels to sales.
 Analogy: A store stocking winter coats in summer (high ratio, bad) vs. just enough stock for demand (low ratio, good).
 Formula: Inventory Value / Sales Value
+
 ✴️ Days Sales of Inventory (DSI) – Days to sell current inventory.
 Analogy: Fresh fruits need quick sales (low DSI), while canned food can sit longer (high DSI).
 Formula: (Average Inventory / COGS) × 365
+
 ✴️ Order Accuracy Rate – How often correct items are delivered.
 Analogy: Ordering a pizza and getting the right toppings (high accuracy) vs. wrong order mistakes (low accuracy).
 Formula: (Correct Orders / Total Orders) × 100
+
 ✴️ Backorder Rate – Percentage of unfulfilled orders due to stockouts.
 Analogy: A restaurant running out of a popular dish, making customers wait.
 Formula: (Backordered Items / Total Orders) × 100
+
 ✴️ Carrying Cost of Inventory – Cost of holding inventory (storage, insurance, depreciation).
 Analogy: A library keeping too many books, costing space and maintenance.
 Formula: (Total Inventory Carrying Costs / Total Inventory Value) × 100
